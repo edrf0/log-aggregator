@@ -1,4 +1,4 @@
-# LogAggregator
+# log-aggregator
 
 A high-performance, CLI-based log parsing and filtering tool written in Rust. Designed for efficiency, it allows you to scan massive JSONL log files using literal keywords or complex Regex patterns.
 
